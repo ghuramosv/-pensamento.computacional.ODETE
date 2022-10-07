@@ -1,0 +1,26 @@
+ body {
+
+ }
+
+ #banner {
+      width:100%;   
+ }
+ 
+ .princupal{
+      background: #CCCCCC;
+      padding: 30px;
+}
+
+.titulo-princupal {
+     padding: 20px;
+}
+
+.titulo-centralizado{
+    text-align: center
+}
+
+p {
+    text-align: center;
+}
+
+#missao
